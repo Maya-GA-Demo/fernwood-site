@@ -1,0 +1,11 @@
+old_path,new_path,status,notes
+/shop/tents.html,/gear/tents,301,Top organic landing page — keep anchor text
+/shop/packs.html,/gear/packs,301,
+/shop/footwear.html,/gear/footwear,301,
+/locations/bend.html,/stores/bend,301,Local-search page for Bend store
+/locations/eugene.html,/stores/eugene,301,Local-search page for Eugene store
+/locations/salem.html,/stores/salem,301,Local-search page for Salem store
+/locations/medford.html,/stores/medford,301,Local-search page for Medford store
+/blog/,/guides/,301,Trail guides keep their slugs
+/blog/*,/guides/:splat,301,Wildcard — verify top 50 posts by traffic
+/contact-us.html,/contact,301,
